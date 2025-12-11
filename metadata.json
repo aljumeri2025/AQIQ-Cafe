@@ -1,0 +1,5 @@
+{
+  "name": "Aqiq Café",
+  "description": "An elegant reservation system for Aqiq Café, featuring customer booking, waiting list management, and an admin dashboard.",
+  "requestFramePermissions": []
+}
